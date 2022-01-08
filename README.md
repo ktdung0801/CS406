@@ -8,6 +8,6 @@
 - numpy
 
 ## Hướng dẫn cài đặt và chạy chương trình
-- Clone source code: git clone https://github.com/ktdung0801/ANPR.git
+- Clone source code: git clone https://github.com/ktdung0801/CS406.git
 - Cài đặt các thư viện cần thiết
 - Chạy file init.py
